@@ -1,0 +1,31 @@
+{
+"park": [
+	{
+		"id": "bx1",
+		"parkName": "VinPark",
+		"address": "Số 1 Giải Phóng, Hai Bà Trưng, Hà Nội",
+		"capacity": 120,
+		"numBikes": 20,
+		"numEBikes": 50,
+		"numTwinBike": 50,
+		"numRentedBike": 10,
+		"numRentedEBike": 20,
+		"numRentedTwinBike": 10
+		
+	},
+	{
+		"id": "bx2",
+		"parkName": "BKPark",
+		"address": "Số 1 Đại Cồ Việt, Hai Bà Trưng, Hà Nội",
+		"capacity": 100,
+		"numBikes": 30,
+		"numEBikes": 40,
+		"numTwinBike": 30,
+		"numRentedBike": 20,
+		"numRentedEBike": 20,
+		"numRentedTwinBike": 20
+		
+	}
+]
+
+}
