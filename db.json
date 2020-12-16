@@ -46,7 +46,7 @@
 ],
 "parks": [
 	{
-		"id": "bx1",
+		"id": 1,
 		"parkName": "VinPark",
 		"address": "Số 1 Giải Phóng, Hai Bà Trưng, Hà Nội",
 		"capacity": 120,
@@ -59,7 +59,7 @@
 		
 	},
 	{
-		"id": "bx2",
+		"id": 2,
 		"parkName": "BKPark",
 		"address": "Số 1 Đại Cồ Việt, Hai Bà Trưng, Hà Nội",
 		"capacity": 100,
